@@ -70,7 +70,7 @@ MODULES = [
     'voting',
 ]
 
-BASEURL = 'https://decide-stats-visualizer.herokuapp.com';
+BASEURL = 'https://decide-ci-test.herokuapp.com';
 
 APIS = {
     'authentication': BASEURL,
